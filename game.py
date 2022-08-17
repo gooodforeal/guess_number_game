@@ -1,6 +1,3 @@
-import re
-
-
 import random
 
 class Game:
